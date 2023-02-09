@@ -1,16 +1,30 @@
-### Hi there 👋
+### 👋 Cactus-John
+### C++ and C# developer
 
-<!--
-**Cactus-John/Cactus-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Languages</h1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,php" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h1>Tools</h1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Services</h1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,discord" />
+  </a>
+</p>
+<br>
+
+<h1>My Github stats</h1>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Cactus-John&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cactus-John&show_icons=true&theme=radical)
