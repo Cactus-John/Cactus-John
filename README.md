@@ -4,7 +4,7 @@
 <h1>Languages</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,kt" />
   </a>
 </p>
 
