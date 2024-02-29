@@ -1,5 +1,5 @@
 ### 👋 Cactus-John
-### C++ and C# developer
+### Currently doing some cool projects, learning some Python and Kotlin
 
 <h1>Languages</h1>
 <p align="left">
